@@ -1,0 +1,16 @@
+:root{
+  --yellow:#ffc107;
+}
+
+body {
+ margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+  background-attachment: fixed;
+  min-height: 100vh;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
